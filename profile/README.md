@@ -1,4 +1,4 @@
-# SHOPEO
+# [SHOPEO][SHOPEO]
 
 SHOPEO是一家技术驱动型互联网设计咨询公司，团队拥有扎实的开发和设计能力，丰富的互联网和外贸行业经验。我们致力于利用互联网前沿技术和潮流设计，帮助国内企业展现出专业独特的品牌形象，在全球竞争中独树一帜。
 
@@ -13,7 +13,7 @@ SHOPEO是一家技术驱动型互联网设计咨询公司，团队拥有扎实�
 ### 品牌网站建设
 
 
-### [外贸网站建设][1]
+### [外贸网站建设][SHOPEO]
 
 
 ## 为什么选择我们
@@ -44,8 +44,8 @@ SHOPEO是一家技术驱动型互联网设计咨询公司，团队拥有扎实�
 
 ## 联系方式
 
-- 官方网站：[https://www.shopeo.cn](https://www.shopeo.cn "外贸网站建设开发运营商，独立站开发运营操盘手")
+- 官方网站：[https://www.shopeo.cn][SHOPEO]
 - 邮件地址：<hello@shopeo.cn>
 
 
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+[SHOPEO]: <https://www.shopeo.cn> "SHOPEO - 外贸网站建设开发运营商，独立站开发运营操盘手"
