@@ -1,6 +1,6 @@
 # [SHOPEO][SHOPEO]
 
-[![SHOPEO](../assets/logo.svg)][SHOPEO]
+[![SHOPEO](/assets/logo.svg)][SHOPEO]
 
 SHOPEO是一家技术驱动型互联网设计咨询公司，团队拥有扎实的开发和设计能力，丰富的互联网和外贸行业经验。我们致力于利用互联网前沿技术和潮流设计，帮助国内企业展现出专业独特的品牌形象，在全球竞争中独树一帜。
 
