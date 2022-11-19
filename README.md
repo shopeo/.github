@@ -28,8 +28,8 @@ SHOPEO是一家技术驱动型互联网设计咨询公司，团队拥有扎实�
 
 ## 联系方式
 
-- 官方网站：[https://www.shopeo.cn][SHOPEO]
+- 官方网站：[https://shopeo.cn][SHOPEO]
 - 邮件地址：<hello@shopeo.cn>
 
 
-[SHOPEO]: https://www.shopeo.cn "SHOPEO - 外贸网站建设开发运营商，独立站开发运营操盘手"
+[SHOPEO]: https://shopeo.cn "SHOPEO - 外贸网站建设开发运营商，独立站开发运营操盘手"
